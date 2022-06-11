@@ -1,0 +1,8 @@
+a[href='http://4geeksacademy.com/'] {color: blue;}
+a[href='http://google.com/'] {color: yellow;}
+a[href='http://youtube.com/'] {color: red;}
+a[href='http://amazon.com/'] {color: black;}
+
+/*If we want to change the font color of the "Design Shack" link, we could use :pseudo selectors. 
+However, doing so would assume that the list stays in that order, and, browser support isn’t the best. 
+Instead, what we can do is use an attribute selector to target the specific href that we’re interested in.*/

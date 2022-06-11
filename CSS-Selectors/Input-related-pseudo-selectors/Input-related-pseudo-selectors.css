@@ -1,0 +1,11 @@
+input{padding: 5px;}
+input:focus{font-size: 2em;}
+input:disabled{
+    background: #ddd;
+    color: #949494;
+    border: 2px solid black;
+}
+input:enabled{ border: 2px solid black;}
+
+/*It is very important to take enough time to style our forms. 
+Styling is the best way to tell the user that one input is either disabled, checked, or that the cursor is over a particular input.*/

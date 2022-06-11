@@ -1,0 +1,12 @@
+p + p {
+    color: red;
+}
+
+/*We used the adjacent sibling selector to change the second and third paragraph to red. 
+This seems very tricky, doesn’t it? Instinctively, we would expect the first paragraph to be red as well.
+After all, the first paragraph is on the same level as the next two, and, has siblings.
+
+However, this selector only applies to elements that are preceded by something else. 
+In this instance, only the paragraphs preceded directly by a sibling paragraph will be targeted.
+
+The first paragraph in the list is preceded by the div, so it remains unchanged.*/

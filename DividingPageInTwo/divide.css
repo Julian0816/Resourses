@@ -1,0 +1,15 @@
+#div1 {
+    background-color: red;
+    width: 150px;
+    float: left;
+    height: 100px;
+    padding: 20px;
+  }
+
+#div2 {
+    background-color: blue;
+    height: 100px;
+    padding: 20px;
+    color: white;
+    overflow: hidden;
+  }

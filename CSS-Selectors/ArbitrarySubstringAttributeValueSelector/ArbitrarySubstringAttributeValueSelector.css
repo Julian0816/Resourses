@@ -1,0 +1,4 @@
+div[id*='section'] {color: red;}
+
+/*The following code targets any div with the word "section" in the title. It can be "section3" or "section-Four" – it doesn’t matter.
+As long as it contains the indicated string, the subsequent styles will apply.*/

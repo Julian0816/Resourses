@@ -1,0 +1,5 @@
+#myUL li:first-child{background: blue;}
+#myUL li:nth-child(3){background: orange;}
+#myUL li a:first-of-type{background: green;}
+
+/*You can apply styles to elements based on their position.*/

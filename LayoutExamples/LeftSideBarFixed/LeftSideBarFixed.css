@@ -1,0 +1,15 @@
+#wrapper {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    background: #BDBDBD;
+}
+#sidebar {
+    width:200px;
+    background: #999;
+    height: 100vh;
+}
+#content {
+    width: 100%;
+    background: #363;
+}

@@ -1,0 +1,6 @@
+#someDiv * {
+    color: red;
+}
+
+/*The previous CSS code turns red every element inside a specific div – this includes items such as links,
+ that have a default color set to something else and wouldn’t be affected by simply targeting the div.*/

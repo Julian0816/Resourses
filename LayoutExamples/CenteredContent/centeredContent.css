@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+  }
+  .center-me {
+    margin: 0 auto;
+    background: #BDBDBD;  /*Gray Backgorund to make the div visible */ 
+    width: 200px;  /*This should be the max-widh of your website*/ 
+  }
